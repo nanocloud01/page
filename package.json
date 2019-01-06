@@ -1,0 +1,22 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanocloud01/page.git"
+  },
+  "author": "Hernan Yujra Chipana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanocloud01/page/issues"
+  },
+  "homepage": "https://github.com/nanocloud01/page#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
