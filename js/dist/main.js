@@ -1,0 +1,1 @@
+!function(){var n;n="Nano",console.info(n,", Hola campeón")}();
